@@ -18,8 +18,7 @@ Use this code to find a solution of a Chinese postman problem.
 The Chinese postman problem is to find a shortest closed path or circuit that visits every edge of a (connected) undirected graph.
 By default route starts in vertex 1.
 <p><br>
-© Chizhov Konstantin. <br>
-Contact email: <a href="mailto:kchizhov@fmbcfmba.ru">kchizhov@fmbcfmba.ru</a>
+
 
 Paper in JRP: http://iopscience.iop.org/article/10.1088/1361-6498/aa7c4f <br>
 Published 28 July 2017 • © 2017 IOP Publishing Ltd  <br>
